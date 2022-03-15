@@ -1,3 +1,2 @@
 # Calculadora_java
-PRIMEIROS CONTATOS COM A LIGUAGEM JAVA
-CALCULADORA SIMPLES
+- Primeiros contatos
